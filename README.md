@@ -17,7 +17,7 @@ certain info of certain location
 
 (https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg).
 
-(C:/utgard/people02.jpg)
+(C:\Users\utgar\OneDrive\Desktop\an image\download (1))
 
 **certain info of certain location**
 
