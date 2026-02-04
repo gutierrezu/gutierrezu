@@ -5,6 +5,8 @@ name: Utgard
 Age: +15
 +somwting
 
+![aaaa]{ultron.jpg}
+
 i have time traveld
 
 (https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
