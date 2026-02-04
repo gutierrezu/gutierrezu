@@ -1,16 +1,44 @@
-## Hi there 👋
+# *about* *this* **human**
 
-<!--
-**gutierrezu/gutierrezu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+name: Utgard
 
-Here are some ideas to get you started:
+Age: +15
++somwting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i have time traveld
+
+(https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+Current Location: New Zealand: Auckland: Western springs college: ground floor
+
+certain info of certain location
+
+**certain info of certain location**
+
+(https://example.com/images/photo.jpg).
+
+**certain info of certain location**
+
+1. certain
+2. info
+3. of
+4. certain
+5. location
+
+**or**
+
++ certain
+- info
+- of
+- certain
+- location
+
+[discription] (C:\utgard\.idea\832/jpg)
+
+I have a decent amount of experience with 3D modelling and coding. mostly Blender and Python
+I have arachnophobia. I come from Mexico. Growing up, r, hence my reason for being here. My spirit animal is a deer i think.
+
+
+
+
+
