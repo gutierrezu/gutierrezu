@@ -15,7 +15,7 @@ certain info of certain location
 
 **certain info of certain location**
 
-(https://example.com/images/photo.jpg).
+(https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg).
 
 **certain info of certain location**
 
