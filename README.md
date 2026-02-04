@@ -1,17 +1,19 @@
-# *about* *this* **human**
+# *about* *this* **Utgard**
 
 name: Utgard
 
-Age: +15
-+somwting
+Age: 15
 
-![aaaa]{ultron.jpg}
+i have traveled to:
+1. mexico
+2. New Zealand
+3. the U.S
 
-i have time traveld
+i have time technicaly traveld
 
 (https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-Current Location: New Zealand: Auckland: Western springs college: ground floor
+My current Location is  New Zealand in Auckland in Western springs college on the ground floor
 
 certain info of certain location
 
