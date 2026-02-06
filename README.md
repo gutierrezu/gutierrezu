@@ -9,40 +9,25 @@ i have traveled to:
 2. New Zealand
 3. the U.S
 
-i have time technicaly traveld
+i have time technicaly traveled because of the time zone in mexico is 19 behind that of new zealands. 
 
 (https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 My current Location is  New Zealand in Auckland in Western springs college on the ground floor
 
-certain info of certain location
+i have decent talent in 3d modeling in blender
+i have coded in the languages of 
+1. pythong
+2. html
+3. a bit of css
+4. godot
+5. i know how to download estensions to visual studio code
 
 **certain info of certain location**
 
 (https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg).
 
 (C:\Users\utgar\OneDrive\Desktop\an image\download (1))
-
-**certain info of certain location**
-
-1. certain
-2. info
-3. of
-4. certain
-5. location
-
-**or**
-
-+ certain
-- info
-- of
-- certain
-- location
-
-[discription] (C:\utgard\.idea\832/jpg)
-
-I have a decent amount of experience with 3D modelling and coding. mostly Blender and Python
-I have arachnophobia. I come from Mexico. Growing up, r, hence my reason for being here. My spirit animal is a deer i think.
 
 
 
